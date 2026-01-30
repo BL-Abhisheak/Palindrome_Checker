@@ -25,7 +25,7 @@ import java.util.Deque;
  * traversal using Deque.
  *
  * @author Developer
- * @version 1.0
+ * @version 7.0
  */
 public class UseCase7PalindromeCheckerApp {
 
