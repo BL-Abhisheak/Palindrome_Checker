@@ -1,6 +1,6 @@
 /**
  * =========================================================
- * MAIN CLASS – UseCase2HardcodedPalindrome
+ * MAIN CLASS – UseCase2PalindromeCheckerApp
  * =========================================================
  *
  * Use Case 2: Hardcoded Palindrome Validation
