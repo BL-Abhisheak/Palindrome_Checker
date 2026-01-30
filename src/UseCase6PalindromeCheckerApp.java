@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * =========================================================
- * MAIN CLASS – UseCase6QueueStackPalindrome
+ * MAIN CLASS – UseCase6PalindromeCheckerApp
  * =========================================================
  *
  * Use Case 6: Queue + Stack Fairness Check
@@ -27,7 +27,7 @@ import java.util.Stack;
  * behaviors can be combined for symmetric comparison.
  *
  * @author Developer
- * @version 1.0
+ * @version 6.0
  */
 public class UseCase6PalindromeCheckerApp {
 
